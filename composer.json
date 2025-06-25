@@ -1,0 +1,22 @@
+{
+    "name": "dtgfranca/package-soma",
+    "require": {
+        "phpunit/phpunit": "^12.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dtgfranca\\PackageSoma\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Dtgfranca\\PackageSoma\\Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Diego França",
+            "email": "diego.tg.franca@gmail.com"
+        }
+    ]
+}

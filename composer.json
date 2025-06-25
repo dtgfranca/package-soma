@@ -1,5 +1,6 @@
 {
     "name": "dtgfranca/package-soma",
+    "minimum-stability": "dev",
     "require": {
         "phpunit/phpunit": "^12.2"
     },
